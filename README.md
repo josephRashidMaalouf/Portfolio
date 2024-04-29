@@ -1,5 +1,5 @@
 # Portfolio
-This is a collection of projects I have made that I am particullary proud of and want to showcase. Within each category you will find my latest project at the top.
+This is a collection of projects I have made that I am particularly proud of and want to showcase. Within each category you will find my latest project at the top.
 
 
 ## Blazor
