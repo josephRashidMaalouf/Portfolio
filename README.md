@@ -14,6 +14,10 @@ This is just a simple static website made with html, css and vanilla js. I would
 Link: [3amospizza.github.io](https://josephrashidmaalouf.github.io/3amospizza.github.io/index.html)
 
 ## MAUI
+### [Joe Quiz Maker](https://github.com/josephRashidMaalouf/JoeQuizMaker)
+<i>January 2024</i><br>
+This is yet another a cross-platform app built with .NET MAUI, featuring a shell app architecture and implementing the MVVM design pattern. In this application I have used mongoDb for data storage, and MongoDb Driver as my ORM. The application is essentially a quiz maker that allows the user to write and play quizzes.
+
 ### [Z Home Library](https://github.com/josephRashidMaalouf/ZHomeLibrary)
 <i>January 2024</i><br>
 Z Home Library is a cross-platform app built with .NET MAUI, featuring a shell app architecture and implementing the MVVM design pattern. The purpose of this application is to let you manage your personal book collection at home, and help you keep track of to whom you have lended your books. This app is available for download on [Microsoft store](https://www.microsoft.com/store/productId/9P2HBLR8DSHM?ocid=pdpshare).
