@@ -16,7 +16,7 @@ Link: [3amospizza.github.io](https://josephrashidmaalouf.github.io/3amospizza.gi
 ## MAUI
 ### [Joe Quiz Maker](https://github.com/josephRashidMaalouf/JoeQuizMaker)
 <i>January 2024</i><br>
-This is yet another a cross-platform app built with .NET MAUI, featuring a shell app architecture and implementing the MVVM design pattern. In this application I have used mongoDb for data storage, and MongoDb Driver as my ORM. The application is essentially a quiz maker that allows the user to write and play quizzes.
+This is yet another a cross-platform app built with .NET MAUI, featuring a shell app architecture and implementing the MVVM design pattern. In this application I have used MongoDb for data storage, and MongoDb Driver as my ORM. The application is essentially a quiz maker that allows the user to write and play quizzes.
 
 ### [Z Home Library](https://github.com/josephRashidMaalouf/ZHomeLibrary)
 <i>January 2024</i><br>
