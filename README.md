@@ -7,7 +7,7 @@ This is a collection of projects I have made that I am particularly proud of and
 |May 2024| [SchoolMeetings (Boka Läraren)](https://github.com/josephRashidMaalouf/SchoolMeetings/blob/master/README.md) | A booking system, allowing teachers to post available time slots and parents to book appointments using a separate link. The tech stack includes Blazor, ASP.NET Core, Minimal API, Microsoft SQL Server, and MongoDB. | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,bootstrap,mongodb&perline=2)](https://skillicons.dev)
 |April 2024| [MajornaGameStore](https://github.com/josephRashidMaalouf/MajornaGameStore) | A fictional gaming store. | [![My Skills](https://skillicons.dev/icons?i=dotnet,html,bootstrap,&perline=2)](https://skillicons.dev)
 
-|February 2024| [3amos pizza](https://github.com/josephRashidMaalouf/3amospizza.github.io) | A website for a fictional pizzeria. | [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,&perline=2)](https://skillicons.dev)
+|February 2024| [3amos pizza](https://github.com/josephRashidMaalouf/3amospizza.github.io) | A website for a fictional pizzeria. | [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,&perline=2)](https://skillicons.dev) |
 
 
 
