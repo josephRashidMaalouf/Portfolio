@@ -1,6 +1,10 @@
 # Portfolio
-This is a collection of projects I have made that I am particularly proud of and want to showcase. Within each category you will find my latest project at the top.
+This is a collection of projects I have made that I am particularly proud of and want to showcase. 
 
+
+|Date|Project|Description|Stack|
+|--|--|--|--|
+|May 2024| [SchoolMeetings (Boka Läraren)](https://github.com/josephRashidMaalouf/SchoolMeetings/blob/master/README.md) | In my previous role as a teacher for grades 4-6, organizing parent-teacher meetings was one of my tasks. I’ve developed a web app that serves as a booking system, allowing teachers to post available time slots and parents to book appointments using a separate link. The tech stack includes Blazor, ASP.NET Core, Minimal API, Microsoft SQL Server, and MongoDB. | [![My Skills](https://skillicons.dev/icons?i=cs,html,css,bootstrap,dotnet,mongodb)](https://skillicons.dev)
 
 ## Blazor
 ### [SchoolMeetings (Boka Läraren)](https://github.com/josephRashidMaalouf/SchoolMeetings/blob/master/README.md)
