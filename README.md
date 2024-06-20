@@ -3,6 +3,11 @@ This is a collection of projects I have made that I am particularly proud of and
 
 
 ## Blazor
+### [SchoolMeetings (Boka Läraren)](https://github.com/josephRashidMaalouf/SchoolMeetings/blob/master/README.md)
+<i>Maj 2024</i><br>
+In my previous role as a teacher for grades 4-6, organizing parent-teacher meetings was one of my tasks. I’ve developed a web app that serves as a booking system, allowing teachers to post available time slots and parents to book appointments using a separate link. The tech stack includes Blazor, ASP.NET Core, Minimal API, Microsoft SQL Server, and MongoDB.
+
+
 ### [MajornaGameStore](https://github.com/josephRashidMaalouf/MajornaGameStore)
 <i>April 2024</i><br>
 This project was made as a part of a group project at my vocational college. In this group project we (.NET developers) teamed up with software tester students, cloud developer students and IT-project manager students. The purpose of this project was for us to practice using SCRUM in order to produce a website for a fictional gaming store. We did two sprints during a 5-week period and this was the result. My main contribution to this project was writing the code for the backend layers, as well as the code needed to consume the API in the frontend.
