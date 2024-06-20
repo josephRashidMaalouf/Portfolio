@@ -4,19 +4,13 @@ This is a collection of projects I have made that I am particularly proud of and
 
 |Date|Project|Description|Stack|
 |--|--|--|--|
-|May 2024| [SchoolMeetings (Boka Läraren)](https://github.com/josephRashidMaalouf/SchoolMeetings/blob/master/README.md) | A booking system, allowing teachers to post available time slots and parents to book appointments using a separate link. The tech stack includes Blazor, ASP.NET Core, Minimal API, Microsoft SQL Server, and MongoDB. | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,bootstrap,mongodb&perline=3&perline=2)](https://skillicons.dev)
-|April 2024| [MajornaGameStore](https://github.com/josephRashidMaalouf/MajornaGameStore) | A fictional gaming store. | [![My Skills](https://skillicons.dev/icons?i=dotnet,html,bootstrap,&perline=3&perline=2)](https://skillicons.dev)
+|May 2024| [SchoolMeetings (Boka Läraren)](https://github.com/josephRashidMaalouf/SchoolMeetings/blob/master/README.md) | A booking system, allowing teachers to post available time slots and parents to book appointments using a separate link. The tech stack includes Blazor, ASP.NET Core, Minimal API, Microsoft SQL Server, and MongoDB. | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,bootstrap,mongodb&perline=2)](https://skillicons.dev)
+|April 2024| [MajornaGameStore](https://github.com/josephRashidMaalouf/MajornaGameStore) | A fictional gaming store. | [![My Skills](https://skillicons.dev/icons?i=dotnet,html,bootstrap,&perline=2)](https://skillicons.dev)
+
+|February 2024| [3amos pizza](https://github.com/josephRashidMaalouf/3amospizza.github.io) | A website for a fictional pizzeria. | [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,&perline=2)](https://skillicons.dev)
 
 
-### [MajornaGameStore](https://github.com/josephRashidMaalouf/MajornaGameStore)
-<i>April 2024</i><br>
-This project was made as a part of a group project at my vocational college. In this group project we (.NET developers) teamed up with software tester students, cloud developer students and IT-project manager students. The purpose of this project was for us to practice using SCRUM in order to produce a website for a fictional gaming store. We did two sprints during a 5-week period and this was the result. My main contribution to this project was writing the code for the backend layers, as well as the code needed to consume the API in the frontend.
 
-## Static websites
-### [3amos pizza](https://github.com/josephRashidMaalouf/3amospizza.github.io)
-<i>February 2024</i><br>
-This is just a simple static website made with html, css and vanilla js. I wouldn't count myself as a frontend developer, but I am still really happy with how this came out. I used bootstrap to make it responsive and mobile friendly, and sprinkled some of my own css to adjust the looks of the site to my own preferences. This is a website for a fictional pizzeria. 
-Link: [3amospizza.github.io](https://josephrashidmaalouf.github.io/3amospizza.github.io/index.html)
 
 ## MAUI
 ### [Joe Quiz Maker](https://github.com/josephRashidMaalouf/JoeQuizMaker)
